@@ -4243,3 +4243,73 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull
 [03:58:56] [Server thread/INFO]: Fortune smiles upon Foxyfolli! Everyone recieves good luck!
 [03:58:57] [Server thread/WARN]: Skipping Entity with id happyVillager
 [03:58:59] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[03:59:06] [Server thread/INFO]: jeb_ joined the game
+[03:59:09] [Server thread/INFO]: Foxyfolli drowned
+[03:59:28] [Server thread/INFO]: Notch joined the game
+[03:59:38] [Server thread/INFO]: bb18_ was slain by Warrior's Kraken
+[03:59:49] [Server thread/WARN]: Skipping Entity with id ender_dragon
+[04:00:01] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[04:00:03] [Server thread/INFO]: Fortune smiles upon nicasexy_22! Everyone recieves good luck!
+[04:00:12] [Server thread/INFO]: nicasexy_22 was slain by Sith Lord
+[04:00:44] [Server thread/INFO]: Fortune smiles upon Foxyfolli! Everyone recieves good luck!
+[04:01:21] [Server thread/INFO]: What is that in the air? It looks like some kind of temple...
+[04:01:21] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[04:01:22] [Server thread/INFO]: [Jen] IM IN A HOLE
+[04:01:23] [Server thread/WARN]: Adding mismatching tag types to tag list
+[04:01:23] [Server thread/WARN]: Adding mismatching tag types to tag list
+[04:01:23] [Server thread/WARN]: Adding mismatching tag types to tag list
+[04:01:41] [Server thread/INFO]: bb18_ blew up
+[04:02:08] [Server thread/INFO]: bb18_ was killed trying to hurt �5�lSea Shell Bob
+[04:03:05] [Server thread/INFO]: Foxyfolli suffocated in a wall
+[04:03:07] [Server thread/INFO]: bb18_ was blown up by Witch
+[04:03:07] [Server thread/INFO]: nicasexy_22 blew up
+[04:03:38] [Server thread/INFO]: bb18_ was slain by Baby Water Master
+[04:05:13] [Server thread/INFO]: Foxyfolli was killed trying to hurt BOBBY ARMY
+[04:05:45] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.1447039097547531,67.11999960541725,0.1380607932806015 (0.1447039097547531, 67.11999960541725, 0.1380607932806015)
+[04:05:46] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.13418718494267523,67.11999960541725,0.15284810960292816 (0.13418718494267523, 67.11999960541725, 0.15284810960292816)
+[04:05:46] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15588350594043732,67.11999960541725,0.13095723638116397 (0.15588350594043732, 67.11999960541725, 0.13095723638116397)
+[04:05:47] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.008979353736322082,67.11999960541725,0.00721684751988505 (0.008979353736322082, 67.11999960541725, 0.00721684751988505)
+[04:05:47] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.0 (0.0, 67.11999960541725, 0.0)
+[04:05:57] [Server thread/INFO]: Foxyfolli was blown up by nicasexy_22
+[04:06:02] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.0 (0.0, 67.11999960541725, 0.0)
+[04:06:21] [Server thread/INFO]: Foxyfolli fell out of the world
+[04:06:50] [Server thread/WARN]: Fetching addPacket for removed entity
+[04:06:57] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:08:05] [Server thread/INFO]: bb18_ was struck by lightning
+[04:08:34] [Server thread/INFO]: bb18_ fell out of the world
+[04:08:38] [Server thread/INFO]: Who said that pigs can't fly?
+[04:08:56] [Server thread/INFO]: Foxyfolli was killed trying to hurt BOBBY ARMY
+[04:09:02] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull.func_145906_b()I
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) [g.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:660) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:344) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:605) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:481) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull.func_145906_b()I
+	at mod.lucky.structure.rotation.Rotations$2.rotate(Rotations.java:271) ~[Rotations$2.class:?]
+	at mod.lucky.structure.rotation.Rotations.rotateTileEntity(Rotations.java:157) ~[Rotations.class:?]
+	at mod.lucky.structure.StructureUtils.setTileEntity(StructureUtils.java:60) ~[StructureUtils.class:?]
+	at mod.lucky.structure.SchematicStructure.process(SchematicStructure.java:55) ~[SchematicStructure.class:?]
+	at mod.lucky.drop.func.DropFuncStructure.process(DropFuncStructure.java:14) ~[DropFuncStructure.class:?]
+	at mod.lucky.drop.func.DropProcessor.processDrop(DropProcessor.java:76) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processDrop(DropProcessor.java:31) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processDrop(DropProcessor.java:25) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processRandomDrop(DropProcessor.java:118) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processRandomDrop(DropProcessor.java:110) ~[DropProcessor.class:?]
+	at mod.lucky.block.BlockLuckyBlock.removeLuckyBlock(BlockLuckyBlock.java:126) ~[BlockLuckyBlock.class:?]
+	at mod.lucky.block.BlockLuckyBlock.removedByPlayer(BlockLuckyBlock.java:66) ~[BlockLuckyBlock.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.removeBlock(ItemInWorldManager.java:261) ~[lg.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.func_180237_b(ItemInWorldManager.java:309) ~[lg.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.func_180785_a(ItemInWorldManager.java:234) ~[lg.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:536) ~[lm.class:?]
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:40) ~[ir.class:?]
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:10) ~[ir.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[fh$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:44) ~[g.class:?]
+	... 5 more
