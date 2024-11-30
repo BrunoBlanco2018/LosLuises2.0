@@ -4146,3 +4146,100 @@
 [03:48:18] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
 [03:48:25] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
 [03:48:34] [Server thread/INFO]: BOO!
+[03:49:01] [Server thread/INFO]: bb18_ fell out of the world
+[03:49:01] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:49:01] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:49:20] [Server thread/INFO]: Look! A special night well. You should throw in your essence...
+[03:49:44] [Server thread/INFO]: bb18_ was killed trying to hurt Zombie Horseman
+[03:50:13] [Server thread/INFO]: Look! A special night well. You should throw in your essence...
+[03:50:21] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
+[03:50:26] [Server thread/INFO]: GHASTMANIA
+[03:50:32] [Server thread/INFO]: bb18_ fell out of the world
+[03:50:32] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:50:32] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:50:38] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
+[03:51:02] [Server thread/INFO]: Try to escape
+[03:51:11] [Server thread/INFO]: SPIDER SIEGE
+[03:51:20] [Server thread/INFO]: bb18_ fell out of the world
+[03:51:20] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:51:20] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:51:22] [Server thread/INFO]: bb18_ fell out of the world
+[03:51:22] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:51:22] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:51:39] [Server thread/INFO]: A BIG PROBLEM
+[03:51:42] [Server thread/INFO]: bb18_ fell out of the world
+[03:51:42] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:51:42] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:52:11] [Server thread/INFO]: Kraken�r: �Now you will feel the power of my army!
+[03:52:19] [Server thread/INFO]: jeb_ joined the game
+[03:52:31] [Server thread/INFO]: jeb_ joined the game
+[03:52:41] [Server thread/INFO]: jeb_ joined the game
+[03:53:16] [Server thread/INFO]: bb18_ was slain by Squishy
+[03:53:26] [Server thread/INFO]: Herobrine joined the game
+[03:53:54] [Server thread/WARN]: Skipping Entity with id pig
+[03:53:54] [Server thread/WARN]: Skipping Entity with id pig
+[03:53:54] [Server thread/WARN]: Skipping Entity with id pig
+[03:53:54] [Server thread/WARN]: Skipping Entity with id pig
+[03:53:54] [Server thread/WARN]: Skipping Entity with id pig
+[03:54:20] [Server thread/INFO]: bb18_ was slain by Herobrine
+[03:54:28] [Server thread/WARN]: Skipping Entity with id pig
+[03:54:28] [Server thread/WARN]: Skipping Entity with id pig
+[03:54:28] [Server thread/WARN]: Skipping Entity with id pig
+[03:54:28] [Server thread/WARN]: Skipping Entity with id pig
+[03:54:28] [Server thread/WARN]: Skipping Entity with id pig
+[03:55:20] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull.func_145906_b()I
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:45) [g.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:660) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:344) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:605) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:481) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull.func_145906_b()I
+	at mod.lucky.structure.rotation.Rotations$2.rotate(Rotations.java:271) ~[Rotations$2.class:?]
+	at mod.lucky.structure.rotation.Rotations.rotateTileEntity(Rotations.java:157) ~[Rotations.class:?]
+	at mod.lucky.structure.StructureUtils.setTileEntity(StructureUtils.java:60) ~[StructureUtils.class:?]
+	at mod.lucky.structure.SchematicStructure.process(SchematicStructure.java:55) ~[SchematicStructure.class:?]
+	at mod.lucky.drop.func.DropFuncStructure.process(DropFuncStructure.java:14) ~[DropFuncStructure.class:?]
+	at mod.lucky.drop.func.DropProcessor.processDrop(DropProcessor.java:76) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processDrop(DropProcessor.java:25) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processRandomDrop(DropProcessor.java:118) ~[DropProcessor.class:?]
+	at mod.lucky.drop.func.DropProcessor.processRandomDrop(DropProcessor.java:110) ~[DropProcessor.class:?]
+	at mod.lucky.block.BlockLuckyBlock.removeLuckyBlock(BlockLuckyBlock.java:126) ~[BlockLuckyBlock.class:?]
+	at mod.lucky.block.BlockLuckyBlock.removedByPlayer(BlockLuckyBlock.java:66) ~[BlockLuckyBlock.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.removeBlock(ItemInWorldManager.java:261) ~[lg.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.func_180237_b(ItemInWorldManager.java:309) ~[lg.class:?]
+	at net.minecraft.server.management.ItemInWorldManager.func_180785_a(ItemInWorldManager.java:234) ~[lg.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:536) ~[lm.class:?]
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:40) ~[ir.class:?]
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:10) ~[ir.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[fh$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:44) ~[g.class:?]
+	... 5 more
+[03:55:52] [Server thread/INFO]: nicasexy_22 was slain by Bob Jr
+[03:56:00] [Server thread/INFO]: Foxyfolli was burnt to a crisp whilst fighting Herobrine
+[03:56:09] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[03:56:26] [Server thread/INFO]: Fortune smiles upon bb18_! Everyone recieves good luck!
+[03:56:41] [Server thread/INFO]: jeb_ joined the game
+[03:56:57] [Server thread/INFO]: Level Up!!!
+[03:57:02] [Server thread/INFO]: Fortune smiles upon bb18_! Everyone receives good luck?
+[03:57:20] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[03:57:36] [Server thread/INFO]: Free diamonds, tp to nicasexy_22
+[03:57:37] [Server thread/INFO]: Kraken�r: �I will take my human form and destroy you with my army!
+[03:57:37] [Server thread/WARN]: Ignoring unknown attribute 'skeleton.spawnReinforcements'
+[03:57:37] [Server thread/WARN]: Ignoring unknown attribute 'skeleton.spawnReinforcements'
+[03:57:40] [Server thread/INFO]: Straight Ballin'
+[03:57:41] [Server thread/INFO]: Straight Ballin'
+[03:57:42] [Server thread/INFO]: Fortune smiles upon nicasexy_22! Everyone receives good luck!
+[03:57:49] [Server thread/INFO]: Dinnerbone joined the game
+[03:57:50] [Server thread/INFO]: bb18_ was slain by Wither Warrior
+[03:58:54] [Server thread/WARN]: nicasexy_22 moved wrongly!
+[03:58:55] [Server thread/WARN]: nicasexy_22 moved wrongly!
+[03:58:55] [Server thread/WARN]: Skipping Entity with id bedrock
+[03:58:56] [Server thread/INFO]: Fortune smiles upon Foxyfolli! Everyone recieves good luck!
+[03:58:57] [Server thread/WARN]: Skipping Entity with id happyVillager
+[03:58:59] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
