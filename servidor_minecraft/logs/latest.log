@@ -4313,3 +4313,65 @@ Caused by: java.lang.NoSuchMethodError: net.minecraft.tileentity.TileEntitySkull
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:44) ~[g.class:?]
 	... 5 more
+[04:09:26] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[04:09:48] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:10:06] [Server thread/WARN]: Skipping Entity with id happyVillager
+[04:10:16] [Server thread/INFO]: nicasexy_22 was dispatched by Astral Mage using Astral Throwing Star
+[04:12:38] [Server thread/INFO]: Foxyfolli blew up
+[04:12:50] [Server thread/INFO]: Foxyfolli fell out of the world
+[04:12:50] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[04:12:50] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:12:50] [Server thread/INFO]: Foxyfolli left the game
+[04:12:54] [Server thread/INFO]: Foxyfolli[/127.0.0.1:34132] logged in with entity id 42597 at (3950.8021075017427, -194.10472647545683, 3675.2512698059513)
+[04:12:54] [Server thread/INFO]: Foxyfolli joined the game
+[04:13:23] [Server thread/INFO]: nicasexy_22 blew up
+[04:13:35] [Server thread/INFO]: nicasexy_22 blew up
+[04:13:46] [Server thread/INFO]: nicasexy_22 was slain by Foxyfolli using [Giant Night Sword]
+[04:13:57] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:14:22] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:14:24] [Server thread/WARN]: nicasexy_22 moved too quickly! -0.1052442342042923,67.11999960541725,0.17006956040859222 (-0.1052442342042923, 67.11999960541725, 0.17006956040859222)
+[04:14:24] [Server thread/WARN]: nicasexy_22 moved too quickly! -0.128548878491074,67.11999960541725,0.2077287317383707 (-0.128548878491074, 67.11999960541725, 0.2077287317383707)
+[04:14:25] [Server thread/WARN]: nicasexy_22 moved too quickly! -0.1247921735048294,67.11999960541725,0.16242854080110192 (-0.1247921735048294, 67.11999960541725, 0.16242854080110192)
+[04:14:25] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.005633217821468861 (0.0, 67.11999960541725, 0.005633217821468861)
+[04:14:26] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.0 (0.0, 67.11999960541725, 0.0)
+[04:14:26] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.0 (0.0, 67.11999960541725, 0.0)
+[04:14:44] [Server thread/INFO]: Foxyfolli was slain by bb18_
+[04:14:47] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.1675402969121933,67.11999960541725,0.10920961201190948 (0.1675402969121933, 67.11999960541725, 0.10920961201190948)
+[04:14:54] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.0,67.11999960541725,0.0 (0.0, 67.11999960541725, 0.0)
+[04:15:19] [Server thread/INFO]: Foxyfolli blew up
+[04:15:33] [Server thread/INFO]: bb18_ was dispatched by nicasexy_22 using future Shot
+[04:15:39] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:15:53] [Server thread/INFO]: bb18_ was dispatched by nicasexy_22 using future Shot
+[04:15:57] [Server thread/INFO]: bb18_ was dispatched by nicasexy_22 using future Shot
+[04:16:03] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:16:12] [Server thread/INFO]: nicasexy_22 blew up
+[04:16:18] [Server thread/INFO]: Foxyfolli was slain by bb18_ using [FuriousDestroyer's Dapper Dagger]
+[04:16:25] [Server thread/WARN]: bb18_ moved too quickly! 0.0,67.11999960541725,-0.006605022872463451 (0.0, 67.11999960541725, -0.006605022872463451)
+[04:16:39] [Server thread/INFO]: bb18_ was slain by Foxyfolli using [Giant Night Sword]
+[04:16:40] [Server thread/WARN]: nicasexy_22 was kicked for floating too long!
+[04:16:40] [Server thread/INFO]: nicasexy_22 lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:16:40] [Server thread/INFO]: nicasexy_22 left the game
+[04:16:44] [Server thread/INFO]: nicasexy_22[/127.0.0.1:52200] logged in with entity id 43655 at (3883.7034895979727, 71.65902920535096, 3627.687981607141)
+[04:16:44] [Server thread/INFO]: nicasexy_22 joined the game
+[04:16:50] [Server thread/INFO]: Foxyfolli was dispatched by nicasexy_22 using future Shot
+[04:16:59] [Server thread/INFO]: bb18_ was dispatched by nicasexy_22 using future Shot
+[04:17:15] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12807542085647583,67.11999960541725,0.15361212193965912 (0.12807542085647583, 67.11999960541725, 0.15361212193965912)
+[04:17:15] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.1564356641320046,67.11999960541725,0.1876270584748454 (0.1564356641320046, 67.11999960541725, 0.1876270584748454)
+[04:17:15] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12983420491218567,67.11999960541725,0.15762751163492794 (0.12983420491218567, 67.11999960541725, 0.15762751163492794)
+[04:17:16] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15858390211724327,67.11999960541725,0.1858149176355255 (0.15858390211724327, 67.11999960541725, 0.1858149176355255)
+[04:17:16] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15983057260382338,67.11999960541725,0.1847427824945953 (0.15983057260382338, 67.11999960541725, 0.1847427824945953)
+[04:17:16] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.1552279687389273,67.11999960541725,0.18860778708813086 (0.1552279687389273, 67.11999960541725, 0.18860778708813086)
+[04:17:18] [Server thread/INFO]: Foxyfolli fell from a high place
+[04:17:22] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12509162724018097,67.11999960541725,0.15605156123638153 (0.12509162724018097, 67.11999960541725, 0.15605156123638153)
+[04:17:23] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:24] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12509162724018097,67.11999960541725,0.1616761447121462 (0.12509162724018097, 67.11999960541725, 0.1616761447121462)
+[04:17:24] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:24] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:25] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12509162724018097,67.11999960541725,0.1616761447121462 (0.12509162724018097, 67.11999960541725, 0.1616761447121462)
+[04:17:25] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:25] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:25] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.15279115921703124,67.11999960541725,0.19060667182247926 (0.15279115921703124, 67.11999960541725, 0.19060667182247926)
+[04:17:26] [Server thread/WARN]: nicasexy_22 moved too quickly! 0.12509162724018097,67.11999960541725,0.1616761447121462 (0.12509162724018097, 67.11999960541725, 0.1616761447121462)
+[04:18:05] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
+[04:18:22] [Server thread/INFO]: Foxyfolli blew up
+[04:18:33] [Server thread/INFO]: Foxyfolli blew up
