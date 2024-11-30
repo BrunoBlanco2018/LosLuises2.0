@@ -1,119 +1,182 @@
-[20:32:52] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
-[20:32:52] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
-[20:32:52] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[20:32:52] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/LosLuises2.0/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-[20:32:52] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIGICgcW:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
-[20:32:52] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
-[20:32:52] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
-[20:32:52] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
-[20:32:52] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
-[20:32:52] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
-[20:32:52] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
-[20:32:52] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
-[20:32:52] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/LosLuises2.0/servidor_minecraft/.
-[20:32:52] [main/DEBUG] [FML/]: Discovering coremods
-[20:32:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:32:52] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:32:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:32:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:32:52] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:32:52] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
-[20:32:52] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
-[20:32:52] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
-[20:32:52] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
-[20:32:52] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
-[20:32:52] [main/DEBUG] [FML/]: Injection complete
-[20:32:52] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
-[20:32:52] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
-[20:32:53] [main/DEBUG] [FML/]: Read 825 binary patches
-[20:32:53] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
-[20:32:53] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
-[20:32:53] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
-[20:32:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:32:53] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-[20:32:53] [main/DEBUG] [FML/]: Injection complete
-[20:32:53] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-[20:32:53] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
-[20:32:53] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
-[20:32:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:32:53] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
-[20:32:53] [main/DEBUG] [FML/]: Validating minecraft
-[20:32:53] [main/DEBUG] [FML/]: Minecraft validated, launching...
-[20:32:53] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:32:53] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:32:54] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[20:32:56] [Server thread/INFO] [FML/]: MinecraftForge v11.15.1.2318 Initialized
-[20:32:56] [Server thread/INFO] [FML/]: Replaced 229 ore recipies
-[20:32:56] [Server thread/DEBUG] [FML/]: No config directory found, creating one: /workspaces/LosLuises2.0/servidor_minecraft/config
-[20:32:56] [Server thread/INFO] [FML/]: Config directory created successfully
-[20:32:56] [Server thread/DEBUG] [FML/]: File /workspaces/LosLuises2.0/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
-[20:32:56] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
-[20:32:56] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
-[20:32:56] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/LosLuises2.0/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar, loading
-[20:32:56] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
-[20:32:56] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
-[20:32:56] [Server thread/INFO] [FML/]: Searching /workspaces/LosLuises2.0/servidor_minecraft/mods for mods
-[20:32:56] [Server thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.2318-1.8.9-universal.jar for potential mods
-[20:32:56] [Server thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.2318-1.8.9-universal.jar appears to be missing an mcmod.info file
-[20:32:57] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 3 mods to load
-[20:32:57] [Server thread/TRACE] [FML/]: Received a system property request ''
-[20:32:57] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
-[20:32:57] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
-[20:32:57] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[20:32:57] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
-[20:32:57] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
-[20:32:57] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
-[20:32:57] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
-[20:32:57] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
-[20:32:57] [Server thread/DEBUG] [FML/]: Mod sorting data
-[20:32:57] [Server thread/DEBUG] [FML/]: No user mods found to sort
-[20:32:57] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
-[20:32:57] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
-[20:32:57] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
-[20:32:57] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
-[20:32:57] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
-[20:32:57] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
-[20:32:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
-[20:32:57] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
-[20:32:57] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.333s
-[20:32:57] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
-[20:32:57] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
-[20:32:57] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
-[20:32:57] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.15.1.2318)
-[20:32:57] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.008s
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.342s
-[20:32:57] [Server thread/DEBUG] [FML/]: Mod signature data
-[20:32:57] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
-[20:32:57] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
-[20:32:57] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
-[20:32:57] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-[20:32:57] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.15.1.2318)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
-[20:32:57] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
-[20:32:57] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
-[20:32:57] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
-[20:32:57] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
-[20:32:57] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
-[20:32:57] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
-[20:32:57] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
-[20:32:57] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.018s
-[20:32:57] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
-[20:32:57] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
-[20:32:57] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.068s
-[20:32:57] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.086s
-[20:32:57] [Server thread/INFO] [FML/]: Applying holder lookups
-[20:32:57] [Server thread/INFO] [FML/]: Holder lookups applied
-[20:32:57] [Server thread/INFO] [FML/]: Injecting itemstacks
-[20:32:57] [Server thread/INFO] [FML/]: Itemstack injection complete
-[20:32:57] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:32:58] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+[20:34:19] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[20:34:19] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[20:34:19] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:34:19] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/LosLuises2.0/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[20:34:19] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIGICgcW:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[20:34:19] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[20:34:19] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[20:34:19] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[20:34:19] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[20:34:19] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[20:34:19] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[20:34:19] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[20:34:19] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/LosLuises2.0/servidor_minecraft/.
+[20:34:19] [main/DEBUG] [FML/]: Discovering coremods
+[20:34:19] [main/DEBUG] [FML/]: Examining for coremod candidacy Loot++-1.7.1_for_1.8.9.jar
+[20:34:19] [main/DEBUG] [FML/]: Not found coremod data in Loot++-1.7.1_for_1.8.9.jar
+[20:34:19] [main/DEBUG] [FML/]: Examining for coremod candidacy lucky-block-forge-1.8.9-2.0.jar
+[20:34:19] [main/DEBUG] [FML/]: Not found coremod data in lucky-block-forge-1.8.9-2.0.jar
+[20:34:19] [main/DEBUG] [FML/]: Examining for coremod candidacy PotionCore-1.3_for_1.8.9.jar
+[20:34:19] [main/DEBUG] [FML/]: Not found coremod data in PotionCore-1.3_for_1.8.9.jar
+[20:34:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:34:19] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:34:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:34:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:34:19] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:34:19] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[20:34:19] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[20:34:19] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[20:34:19] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[20:34:19] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[20:34:19] [main/DEBUG] [FML/]: Injection complete
+[20:34:19] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[20:34:19] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[20:34:20] [main/DEBUG] [FML/]: Read 825 binary patches
+[20:34:20] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[20:34:20] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[20:34:20] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[20:34:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:34:20] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[20:34:20] [main/DEBUG] [FML/]: Injection complete
+[20:34:20] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[20:34:20] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[20:34:20] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[20:34:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:34:20] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[20:34:20] [main/DEBUG] [FML/]: Validating minecraft
+[20:34:20] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[20:34:20] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:34:20] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:34:21] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:34:24] [Server thread/INFO] [FML/]: MinecraftForge v11.15.1.2318 Initialized
+[20:34:24] [Server thread/INFO] [FML/]: Replaced 229 ore recipies
+[20:34:24] [Server thread/DEBUG] [FML/]: File /workspaces/LosLuises2.0/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[20:34:24] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[20:34:24] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[20:34:24] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/LosLuises2.0/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar, loading
+[20:34:24] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[20:34:24] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:34:24] [Server thread/INFO] [FML/]: Searching /workspaces/LosLuises2.0/servidor_minecraft/mods for mods
+[20:34:24] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Loot++-1.7.1_for_1.8.9.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file lucky-block-forge-1.8.9-2.0.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file PotionCore-1.3_for_1.8.9.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.2318-1.8.9-universal.jar for potential mods
+[20:34:24] [Server thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.2318-1.8.9-universal.jar appears to be missing an mcmod.info file
+[20:34:24] [Server thread/DEBUG] [FML/]: Examining file Loot++-1.7.1_for_1.8.9.jar for potential mods
+[20:34:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Loot++-1.7.1_for_1.8.9.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.tmtravlr.lootplusplus.LootPlusPlusMod) - loading
+[20:34:24] [Server thread/TRACE] [lootplusplus/]: Parsed dependency info : [] [] []
+[20:34:24] [Server thread/DEBUG] [FML/]: Examining file lucky-block-forge-1.8.9-2.0.jar for potential mods
+[20:34:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file lucky-block-forge-1.8.9-2.0.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.lucky.Lucky) - loading
+[20:34:24] [Server thread/TRACE] [lucky/]: Parsed dependency info : [] [] []
+[20:34:24] [Server thread/DEBUG] [FML/]: Examining file PotionCore-1.3_for_1.8.9.jar for potential mods
+[20:34:24] [Server thread/TRACE] [FML/]: Located mcmod.info file in file PotionCore-1.3_for_1.8.9.jar
+[20:34:24] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.tmtravlr.potioncore.PotionCore) - loading
+[20:34:24] [Server thread/TRACE] [potioncore/]: Parsed dependency info : [] [] []
+[20:34:24] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 6 mods to load
+[20:34:24] [Server thread/TRACE] [FML/]: Received a system property request ''
+[20:34:24] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[20:34:24] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[20:34:24] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[20:34:24] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[20:34:24] [Server thread/DEBUG] [lootplusplus/]: Enabling mod lootplusplus
+[20:34:24] [Server thread/DEBUG] [FML/]: Found translations in Loot++-1.7.1_for_1.8.9.jar [en_US]
+[20:34:24] [Server thread/DEBUG] [lucky/]: Enabling mod lucky
+[20:34:24] [Server thread/DEBUG] [FML/]: Found translations in lucky-block-forge-1.8.9-2.0.jar [en_US]
+[20:34:24] [Server thread/DEBUG] [potioncore/]: Enabling mod potioncore
+[20:34:24] [Server thread/DEBUG] [FML/]: Found translations in PotionCore-1.3_for_1.8.9.jar [en_US]
+[20:34:24] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[20:34:24] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[20:34:24] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[20:34:24] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[20:34:24] [Server thread/DEBUG] [FML/]: Mod sorting data
+[20:34:24] [Server thread/DEBUG] [FML/]: 	lootplusplus(Loot++:1.7.1_for_1.8.9): Loot++-1.7.1_for_1.8.9.jar ()
+[20:34:24] [Server thread/DEBUG] [FML/]: 	lucky(Lucky Block:7.0.2): lucky-block-forge-1.8.9-2.0.jar ()
+[20:34:24] [Server thread/DEBUG] [FML/]: 	potioncore(Potion Core:1.3_for_1.8.9): PotionCore-1.3_for_1.8.9.jar ()
+[20:34:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[20:34:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[20:34:24] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[20:34:24] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[20:34:24] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[20:34:24] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[20:34:24] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[20:34:24] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, lootplusplus, lucky, potioncore] at CLIENT
+[20:34:24] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, lootplusplus, lucky, potioncore] at SERVER
+[20:34:25] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.286s
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[20:34:25] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[20:34:25] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[20:34:25] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.15.1.2318)
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.007s
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLConstructionEvent to mod lootplusplus
+[20:34:25] [Server thread/INFO] [STDOUT/lootplusplus]: [com.tmtravlr.lootplusplus.LootPPHelper:<init>:266]: [Loot++] Attempting to get chest contents.
+[20:34:25] [Server thread/INFO] [STDOUT/lootplusplus]: [com.tmtravlr.lootplusplus.LootPPHelper:<init>:281]: [Loot++] Attempting to get chest info.
+[20:34:25] [Server thread/INFO] [STDOUT/lootplusplus]: [com.tmtravlr.lootplusplus.LootPPHelper:<init>:296]: [Loot++] Attempting to get furnace experience map.
+[20:34:25] [Server thread/TRACE] [FML/lootplusplus]: Mod lootplusplus is using network checker : Accepting version 1.7.1_for_1.8.9
+[20:34:25] [Server thread/TRACE] [FML/lootplusplus]: Testing mod lootplusplus to verify it accepts its own version in a remote connection
+[20:34:25] [Server thread/TRACE] [FML/lootplusplus]: The mod lootplusplus accepts its own version (1.7.1_for_1.8.9)
+[20:34:25] [Server thread/DEBUG] [FML/lootplusplus]: Attempting to inject @SidedProxy classes into lootplusplus
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLConstructionEvent to mod lootplusplus
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Loot++ took 0.059s
+[20:34:25] [Server thread/TRACE] [lucky/lucky]: Sending event FMLConstructionEvent to mod lucky
+[20:34:25] [Server thread/TRACE] [FML/lucky]: Mod lucky is using network checker : Accepting version 7.0.2
+[20:34:25] [Server thread/TRACE] [FML/lucky]: Testing mod lucky to verify it accepts its own version in a remote connection
+[20:34:25] [Server thread/TRACE] [FML/lucky]: The mod lucky accepts its own version (7.0.2)
+[20:34:25] [Server thread/DEBUG] [FML/lucky]: Attempting to inject @SidedProxy classes into lucky
+[20:34:25] [Server thread/TRACE] [lucky/lucky]: Sent event FMLConstructionEvent to mod lucky
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Lucky Block took 0.017s
+[20:34:25] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLConstructionEvent to mod potioncore
+[20:34:25] [Server thread/TRACE] [FML/potioncore]: Mod potioncore is using network checker : Accepting version 1.3_for_1.8.9
+[20:34:25] [Server thread/TRACE] [FML/potioncore]: Testing mod potioncore to verify it accepts its own version in a remote connection
+[20:34:25] [Server thread/TRACE] [FML/potioncore]: The mod potioncore accepts its own version (1.3_for_1.8.9)
+[20:34:25] [Server thread/DEBUG] [FML/potioncore]: Attempting to inject @SidedProxy classes into potioncore
+[20:34:25] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLConstructionEvent to mod potioncore
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Potion Core took 0.007s
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.377s
+[20:34:25] [Server thread/DEBUG] [FML/]: Mod signature data
+[20:34:25] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[20:34:25] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[20:34:25] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[20:34:25] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[20:34:25] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.15.1.2318)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[20:34:25] [Server thread/DEBUG] [FML/]: 		lootplusplus	(Loot++	1.7.1_for_1.8.9)	Loot++-1.7.1_for_1.8.9.jar
+[20:34:25] [Server thread/DEBUG] [FML/]: 		lucky	(Lucky Block	7.0.2)	lucky-block-forge-1.8.9-2.0.jar
+[20:34:25] [Server thread/DEBUG] [FML/]: 		potioncore	(Potion Core	1.3_for_1.8.9)	PotionCore-1.3_for_1.8.9.jar
+[20:34:25] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[20:34:25] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[20:34:25] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[20:34:25] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[20:34:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[20:34:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[20:34:25] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[20:34:25] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.012s
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[20:34:25] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.032s
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLPreInitializationEvent to mod lootplusplus
+[20:34:25] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLPreInitializationEvent to mod lootplusplus
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Loot++ took 0.063s
+[20:34:25] [Server thread/TRACE] [lucky/lucky]: Sending event FMLPreInitializationEvent to mod lucky
+[20:34:25] [Server thread/TRACE] [lucky/lucky]: Sent event FMLPreInitializationEvent to mod lucky
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Lucky Block took 0.001s
+[20:34:25] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLPreInitializationEvent to mod potioncore
+[20:34:25] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLPreInitializationEvent to mod potioncore
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Potion Core took 0.055s
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.162s
+[20:34:25] [Server thread/INFO] [FML/]: Applying holder lookups
+[20:34:25] [Server thread/INFO] [FML/]: Holder lookups applied
+[20:34:25] [Server thread/INFO] [FML/]: Injecting itemstacks
+[20:34:25] [Server thread/INFO] [FML/]: Itemstack injection complete
+[20:34:25] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
 Moved Permanently
-[20:32:58] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
+[20:34:25] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
 	at com.google.gson.Gson.fromJson(Gson.java:815) ~[Gson.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
@@ -127,137 +190,351 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[MapTypeAdapterFactory$Adapter.class:?]
 	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
 	... 5 more
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.002s
-[20:32:58] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.006s
-[20:32:58] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
-[20:32:58] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.008s
-[20:32:58] [Server thread/INFO] [FML/]: Injecting itemstacks
-[20:32:58] [Server thread/INFO] [FML/]: Itemstack injection complete
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.001s
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.176s
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.177s
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.001s
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("Before", UNKNOWN, )
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
-[20:32:58] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
-[20:32:58] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.014s
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.015s
-[20:32:58] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
-[20:32:58] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 3 mods
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
-[20:32:58] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.001s
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
-[20:32:58] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.001s
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
-[20:32:58] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.001s
-[20:32:58] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
-[20:32:58] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7d1fb249)
-[20:32:59] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d1fb249)
-[20:32:59] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7d1fb249)
-[20:33:05] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
-[20:33:05] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
-[20:33:05] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
-[20:33:05] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
-[20:33:05] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
-[20:33:05] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.003s
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.004s
-[20:33:05] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
-[20:33:05] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
-[20:33:05] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
-[20:33:05] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
-[20:33:05] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
-[20:33:05] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
-[20:33:05] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.001s
-[20:33:13] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
-[20:33:13] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
-[20:33:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.001s
-[20:33:13] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
-[20:33:13] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
-[20:33:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.001s
-[20:33:13] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
-[20:33:13] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
-[20:33:13] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.001s
-[20:33:13] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
-[20:33:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
-[20:33:14] [Server thread/INFO] [FML/]: Unloading dimension 0
-[20:33:14] [Server thread/INFO] [FML/]: Unloading dimension -1
-[20:33:14] [Server thread/INFO] [FML/]: Unloading dimension 1
-[20:33:14] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
-[20:33:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
-[20:33:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
-[20:33:14] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
-[20:33:14] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
-[20:33:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
-[20:33:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.001s
-[20:33:14] [Server thread/INFO] [FML/]: Applying holder lookups
-[20:33:14] [Server thread/INFO] [FML/]: Holder lookups applied
-[20:33:14] [Server thread/DEBUG] [FML/]: Frozen state restored.
-[20:33:14] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
-[20:33:14] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
-[20:33:14] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
-[20:33:14] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
-[20:33:14] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
-[20:33:14] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
-[20:33:14] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.001s
+[20:34:25] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[20:34:25] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[20:34:25] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[20:34:25] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[20:34:25] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLInitializationEvent to mod lootplusplus
+[20:34:25] [Server thread/TRACE] [FML/lootplusplus]: Automatically registered mod lootplusplus entity ThrownItem as lootplusplus.ThrownItem
+[20:34:25] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLInitializationEvent to mod lootplusplus
+[20:34:25] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Loot++ took 0.012s
+[20:34:25] [Server thread/TRACE] [lucky/lucky]: Sending event FMLInitializationEvent to mod lucky
+[20:34:25] [Server thread/DEBUG] [FML/lucky]: Skipping automatic mod lucky entity registration for already registered class mod.lucky.entity.EntityLuckyProjectile
+[20:34:25] [Server thread/DEBUG] [FML/lucky]: Skipping automatic mod lucky entity registration for already registered class mod.lucky.entity.EntityLuckyPotion
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sent event FMLInitializationEvent to mod lucky
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Lucky Block took 0.906s
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLInitializationEvent to mod potioncore
+[20:34:26] [Server thread/TRACE] [FML/potioncore]: Automatically registered mod potioncore entity CustomPotion as potioncore.CustomPotion
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLInitializationEvent to mod potioncore
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Potion Core took 0.001s
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.920s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.003s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod lootplusplus
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event IMCEvent to mod lootplusplus
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event IMCEvent to mod lootplusplus
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Loot++ took 0.267s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod lucky
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sending event IMCEvent to mod lucky
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sent event IMCEvent to mod lucky
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Lucky Block took 0.000s
+[20:34:26] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod potioncore
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sending event IMCEvent to mod potioncore
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sent event IMCEvent to mod potioncore
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Potion Core took 0.000s
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.273s
+[20:34:26] [Server thread/INFO] [FML/]: Injecting itemstacks
+[20:34:26] [Server thread/INFO] [FML/]: Itemstack injection complete
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.008s
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLPostInitializationEvent to mod lootplusplus
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLPostInitializationEvent to mod lootplusplus
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Loot++ took 0.003s
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sending event FMLPostInitializationEvent to mod lucky
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sent event FMLPostInitializationEvent to mod lucky
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Lucky Block took 0.000s
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLPostInitializationEvent to mod potioncore
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLPostInitializationEvent to mod potioncore
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Potion Core took 0.000s
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.013s
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[20:34:26] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   15: RecipeEntry("Before", UNKNOWN, )
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("lucky:lucky_block", SHAPELESS, mod.lucky.crafting.LuckyCrafting) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[20:34:26] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[20:34:26] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.003s
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLLoadCompleteEvent to mod lootplusplus
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLLoadCompleteEvent to mod lootplusplus
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Loot++ took 0.000s
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sending event FMLLoadCompleteEvent to mod lucky
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sent event FMLLoadCompleteEvent to mod lucky
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Lucky Block took 0.000s
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLLoadCompleteEvent to mod potioncore
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLLoadCompleteEvent to mod potioncore
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Potion Core took 0.000s
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.004s
+[20:34:26] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[20:34:26] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 6 mods
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[20:34:26] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[20:34:26] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[20:34:26] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLServerAboutToStartEvent to mod lootplusplus
+[20:34:26] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLServerAboutToStartEvent to mod lootplusplus
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Loot++ took 0.032s
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerAboutToStartEvent to mod lucky
+[20:34:26] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerAboutToStartEvent to mod lucky
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Lucky Block took 0.000s
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLServerAboutToStartEvent to mod potioncore
+[20:34:26] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLServerAboutToStartEvent to mod potioncore
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Potion Core took 0.000s
+[20:34:26] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.034s
+[20:34:26] [Server thread/INFO] [fml.ModTracker/]: This world was saved with mod Forge version 11.15.1.1722 and it is now at version 11.15.1.2318, things may not work well
+[20:34:26] [Server thread/ERROR] [fml.ModTracker/]: This world was saved with mod worldedit which appears to be missing, things may not work well
+[20:34:26] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[20:34:26] [Server thread/DEBUG] [FML/]: Fixed minecraft:blocks id mismatch lucky:lucky_block: 202 (init) -> 198 (map).
+[20:34:26] [Server thread/DEBUG] [FML/]: Fixed minecraft:items id mismatch lucky:lucky_bow: 4109 (init) -> 4098 (map).
+[20:34:26] [Server thread/DEBUG] [FML/]: Fixed minecraft:items id mismatch lucky:lucky_potion: 4110 (init) -> 4099 (map).
+[20:34:26] [Server thread/DEBUG] [FML/]: Fixed minecraft:items id mismatch lucky:lucky_block: 4107 (init) -> 4096 (map).
+[20:34:26] [Server thread/DEBUG] [FML/]: Fixed minecraft:items id mismatch lucky:lucky_sword: 4108 (init) -> 4097 (map).
+[20:34:27] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[20:34:27] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.002s
+[20:34:27] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[20:34:27] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[20:34:27] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[20:34:27] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[20:34:27] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLModIdMappingEvent to mod lootplusplus
+[20:34:27] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLModIdMappingEvent to mod lootplusplus
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Loot++ took 0.000s
+[20:34:27] [Server thread/TRACE] [lucky/lucky]: Sending event FMLModIdMappingEvent to mod lucky
+[20:34:27] [Server thread/TRACE] [lucky/lucky]: Sent event FMLModIdMappingEvent to mod lucky
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Lucky Block took 0.001s
+[20:34:27] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLModIdMappingEvent to mod potioncore
+[20:34:27] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLModIdMappingEvent to mod potioncore
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Potion Core took 0.001s
+[20:34:27] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.004s
+[20:34:27] [Server thread/INFO] [FML/]: Applying holder lookups
+[20:34:27] [Server thread/INFO] [FML/]: Holder lookups applied
+[20:34:27] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[20:34:27] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[20:34:27] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[20:34:27] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7338f9ea)
+[20:34:27] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7338f9ea)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.SocketException: Unexpected end of file from server
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:873)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:870)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1610)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_30_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[20:34:27] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7338f9ea)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.SocketException: Unexpected end of file from server
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:873)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:870)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1610)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_30_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[20:34:27] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.SocketException: Unexpected end of file from server
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:873)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:870)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:680)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1610)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_30_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[20:34:28] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[20:34:28] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[20:34:28] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[20:34:28] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[20:34:28] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[20:34:28] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[20:34:28] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.002s
+[20:34:28] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLServerStartingEvent to mod lootplusplus
+[20:34:28] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLServerStartingEvent to mod lootplusplus
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Loot++ took 0.111s
+[20:34:28] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStartingEvent to mod lucky
+[20:34:28] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStartingEvent to mod lucky
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Lucky Block took 0.000s
+[20:34:28] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLServerStartingEvent to mod potioncore
+[20:34:28] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLServerStartingEvent to mod potioncore
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Potion Core took 0.000s
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.115s
+[20:34:28] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[20:34:28] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[20:34:28] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[20:34:28] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[20:34:28] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[20:34:28] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[20:34:28] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLServerStartedEvent to mod lootplusplus
+[20:34:28] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLServerStartedEvent to mod lootplusplus
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Loot++ took 0.000s
+[20:34:28] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStartedEvent to mod lucky
+[20:34:28] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStartedEvent to mod lucky
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Lucky Block took 0.000s
+[20:34:28] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLServerStartedEvent to mod potioncore
+[20:34:28] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLServerStartedEvent to mod potioncore
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Potion Core took 0.000s
+[20:34:28] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.002s
+[20:34:31] [Netty Epoll Server IO #1/TRACE] [FML/]: Handshake channel activating
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[20:34:31] [Server thread/INFO] [FML/]: [Potion Core] Equipment: [0:null, 1:null, 2:null, 3:null, 4:null}
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:34:31] [Netty Epoll Server IO #1/INFO] [FML/]: Client protocol version 2
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[20:34:31] [Netty Epoll Server IO #1/INFO] [FML/]: Client attempting to join with 6 mods : lucky@7.0.2,FML@8.0.99.99,lootplusplus@1.7.1_for_1.8.9,potioncore@1.3_for_1.8.9,Forge@11.15.1.2318,mcp@9.19
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[20:34:31] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:34:31] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[20:34:31] [Server thread/INFO] [FML/]: [Potion Core] Equipment: [0:null, 1:null, 2:null, 3:null, 4:null}
+[20:35:13] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:35:23] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[20:35:23] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[20:35:23] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[20:35:23] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[20:35:23] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[20:35:23] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[20:35:23] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLServerStoppingEvent to mod lootplusplus
+[20:35:23] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLServerStoppingEvent to mod lootplusplus
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Loot++ took 0.000s
+[20:35:23] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStoppingEvent to mod lucky
+[20:35:23] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStoppingEvent to mod lucky
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Lucky Block took 0.000s
+[20:35:23] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLServerStoppingEvent to mod potioncore
+[20:35:23] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLServerStoppingEvent to mod potioncore
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Potion Core took 0.000s
+[20:35:23] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[20:35:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[20:35:24] [Server thread/INFO] [FML/]: Unloading dimension 0
+[20:35:24] [Server thread/INFO] [FML/]: Unloading dimension -1
+[20:35:24] [Server thread/INFO] [FML/]: Unloading dimension 1
+[20:35:24] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[20:35:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[20:35:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[20:35:24] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[20:35:24] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[20:35:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[20:35:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[20:35:24] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLModIdMappingEvent to mod lootplusplus
+[20:35:24] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLModIdMappingEvent to mod lootplusplus
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Loot++ took 0.000s
+[20:35:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLModIdMappingEvent to mod lucky
+[20:35:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLModIdMappingEvent to mod lucky
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Lucky Block took 0.000s
+[20:35:24] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLModIdMappingEvent to mod potioncore
+[20:35:24] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLModIdMappingEvent to mod potioncore
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Potion Core took 0.000s
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[20:35:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[20:35:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[20:35:24] [Server thread/DEBUG] [FML/]: Frozen state restored.
+[20:35:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[20:35:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[20:35:24] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[20:35:24] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[20:35:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[20:35:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[20:35:24] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sending event FMLServerStoppedEvent to mod lootplusplus
+[20:35:24] [Server thread/TRACE] [lootplusplus/lootplusplus]: Sent event FMLServerStoppedEvent to mod lootplusplus
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Loot++ took 0.001s
+[20:35:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStoppedEvent to mod lucky
+[20:35:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStoppedEvent to mod lucky
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Lucky Block took 0.000s
+[20:35:24] [Server thread/TRACE] [potioncore/potioncore]: Sending event FMLServerStoppedEvent to mod potioncore
+[20:35:24] [Server thread/TRACE] [potioncore/potioncore]: Sent event FMLServerStoppedEvent to mod potioncore
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Potion Core took 0.000s
+[20:35:24] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.002s
