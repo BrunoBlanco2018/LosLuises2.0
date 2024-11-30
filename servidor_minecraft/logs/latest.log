@@ -4061,3 +4061,88 @@
 [03:38:35] [Server thread/INFO]: A wishing well? Maybe you should throw in a coin...
 [03:38:35] [Server thread/INFO]: [@: Game rule has been updated]
 [03:38:35] [Server thread/INFO]: [@: Given [Coin] * 1 to nicasexy_22]
+[03:39:07] [Server thread/INFO]: [@: Played sound 'portal.travel' to Foxyfolli]
+[03:39:07] [Server thread/INFO]: [@: Played sound 'portal.travel' to bb18_]
+[03:39:07] [Server thread/INFO]: [@: Playing effect fireworksSpark for 1000 times]
+[03:39:07] [Server thread/INFO]: [@: 25 blocks filled]
+[03:39:07] [Server thread/INFO]: [@: 9 blocks filled]
+[03:39:07] [Server thread/INFO]: [@: 8 blocks filled]
+[03:39:07] [Server thread/INFO]: Foxyfolli was slain by Skeleton
+[03:39:14] [Server thread/INFO]: bb18_ was slain by Skeleton
+[03:39:16] [Server thread/INFO]: nicasexy_22 was slain by Skeleton
+[03:39:27] [Server thread/INFO]: bb18_ was slain by Skeleton
+[03:39:35] [Server thread/INFO]: Foxyfolli was slain by Skeleton
+[03:39:37] [Server thread/INFO]: nicasexy_22 was slain by Skeleton
+[03:39:46] [Server thread/INFO]: Foxyfolli blew up
+[03:39:54] [Server thread/INFO]: nicasexy_22 was slain by Skeleton
+[03:40:02] [Server thread/INFO]: [@: Game rule has been updated]
+[03:40:12] [Server thread/INFO]: bb18_ fell out of the world
+[03:40:12] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:40:12] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:40:43] [Server thread/INFO]: A wishing well? Maybe you should throw in an astral coin...
+[03:41:19] [Server thread/WARN]: nicasexy_22 was kicked for floating too long!
+[03:41:19] [Server thread/INFO]: nicasexy_22 lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:41:19] [Server thread/INFO]: nicasexy_22 left the game
+[03:41:25] [Server thread/INFO]: nicasexy_22[/127.0.0.1:57776] logged in with entity id 16132 at (4509.300000011921, -182.5414208098426, 3805.0499240594554)
+[03:41:25] [Server thread/INFO]: nicasexy_22 joined the game
+[03:41:26] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:42:38] [Server thread/INFO]: bb18_ was shot by Ghostly Horseman using [Ghostly Swordbow]
+[03:42:43] [Server thread/INFO]: nicasexy_22 was shot by Ghostly Horseman using [Ghostly Swordbow]
+[03:42:49] [Server thread/INFO]: bb18_ fell out of the world
+[03:42:49] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:42:49] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:43:23] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
+[03:43:47] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:43:47] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:43:47] [Server thread/INFO]: Foxyfolli left the game
+[03:43:55] [Server thread/INFO]: Foxyfolli[/127.0.0.1:41244] logged in with entity id 17372 at (4480.442349450849, 8.079999841749668, 3758.49677439213)
+[03:43:55] [Server thread/INFO]: Foxyfolli joined the game
+[03:43:57] [Server thread/INFO]: bb18_ withered away
+[03:44:00] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:00] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:00] [Server thread/INFO]: Foxyfolli left the game
+[03:44:03] [Server thread/INFO]: nicasexy_22 drowned
+[03:44:05] [Server thread/INFO]: Foxyfolli[/127.0.0.1:57102] logged in with entity id 17375 at (4480.442349450849, 14.47999969869852, 3758.49677439213)
+[03:44:05] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:10] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:10] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:10] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:10] [Server thread/INFO]: Foxyfolli left the game
+[03:44:10] [Server thread/WARN]: handleDisconnection() called twice
+[03:44:14] [Server thread/INFO]: Foxyfolli[/127.0.0.1:51532] logged in with entity id 17377 at (4480.442349450849, 20.959999553859234, 3758.49677439213)
+[03:44:14] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:20] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:20] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:20] [Server thread/INFO]: Foxyfolli left the game
+[03:44:23] [Server thread/INFO]: nicasexy_22 withered away
+[03:44:23] [Server thread/INFO]: Foxyfolli[/127.0.0.1:41870] logged in with entity id 17403 at (4480.442349450849, 27.359999410808086, 3758.49677439213)
+[03:44:23] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:29] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:29] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:29] [Server thread/INFO]: Foxyfolli left the game
+[03:44:32] [Server thread/INFO]: Foxyfolli[/127.0.0.1:41876] logged in with entity id 17406 at (4480.442349450849, 33.75999926775694, 3758.49677439213)
+[03:44:32] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:38] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:38] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:38] [Server thread/INFO]: Foxyfolli left the game
+[03:44:41] [Server thread/INFO]: Foxyfolli[/127.0.0.1:56056] logged in with entity id 17408 at (4480.442349450849, 40.15999912470579, 3758.49677439213)
+[03:44:41] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:49] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:49] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:49] [Server thread/INFO]: Foxyfolli left the game
+[03:44:53] [Server thread/INFO]: Foxyfolli[/127.0.0.1:56792] logged in with entity id 17410 at (4539.52611534454, 9.074999839067459, 3818.782659546062)
+[03:44:53] [Server thread/INFO]: Foxyfolli joined the game
+[03:44:58] [Server thread/WARN]: Foxyfolli was kicked for floating too long!
+[03:44:58] [Server thread/INFO]: Foxyfolli lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:58] [Server thread/INFO]: Foxyfolli left the game
+[03:45:01] [Server thread/INFO]: Foxyfolli[/127.0.0.1:52760] logged in with entity id 17412 at (4547.368965307953, 13.849893006093504, 3819.523306519073)
+[03:45:01] [Server thread/INFO]: Foxyfolli joined the game
+[03:45:43] [Server thread/INFO]: Foxyfolli blew up
+[03:46:10] [Server thread/INFO]: nicasexy_22 was blown up by Explosive Throwing Star
+[03:46:13] [Server thread/INFO]: bb18_ fell out of the world
+[03:46:13] [Server thread/INFO]: Foxyfolli fell out of the world
+[03:46:13] [Server thread/INFO]: nicasexy_22 fell out of the world
+[03:47:01] [Server thread/INFO]: Foxyfolli was slain by Silverfish
+[03:48:18] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
+[03:48:25] [Server thread/INFO]: A wishing well? Maybe you should throw in your ticket to destiny...
+[03:48:34] [Server thread/INFO]: BOO!
